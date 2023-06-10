@@ -11,4 +11,4 @@ function minToFront(arr){
     return arr 
 }
 
-console.log(minToFront([4,2,6,13,5]))
+console.log(minToFront([4,6,13,5,2]))
